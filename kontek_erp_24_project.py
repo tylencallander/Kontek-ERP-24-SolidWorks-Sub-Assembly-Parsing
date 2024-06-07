@@ -1,12 +1,12 @@
 import pandas as pd
 import json
+import os
 
 def parse_bom_excel(input_file):
     xl = pd.ExcelFile(input_file)
     df = xl.parse(header=None, skiprows=1) 
 
     parts = {}
-    assemblies = {}
     errors = {"EMPTYCELL": []}
 
     for index, row in df.iterrows():
@@ -43,7 +43,43 @@ def parse_bom_excel(input_file):
 
         print(f"Processed part: {part_number}")
 
-    return parts, assemblies, errors
+    return parts, errors, df
+
+def build_assemblies(df):
+    assemblies = {}
+    stack = []
+
+    for _, row in df.iterrows():
+        item_no = str(row[0]).strip() if pd.notna(row[0]) else ''
+        part_number = str(row[1]).strip() if pd.notna(row[1]) else ''
+        description = str(row[2]).strip() if pd.notna(row[2]) else ''
+        sw_file_name = str(row[3]).strip() if pd.notna(row[3]) else ''
+
+        if not item_no or not part_number or not description or not sw_file_name:
+            continue
+
+        part_number = part_number.strip()
+
+        level = item_no.count('.')
+        assembly = {
+            "itemno": item_no,
+            "description": description,
+            "SWfilename": sw_file_name,
+            "assemblies": []
+        }
+
+        while len(stack) > level:
+            stack.pop()
+
+        if stack:
+            parent = stack[-1]
+            parent["assemblies"].append({part_number: assembly})
+        else:
+            assemblies[part_number] = assembly
+
+        stack.append(assembly)
+
+    return assemblies
 
 def save_to_json(data, filename):
     with open(filename, 'w') as f:
@@ -51,16 +87,25 @@ def save_to_json(data, filename):
 
 def main():
     input_file = "P:/KONTEK/ENGINEERING/ELECTRICAL/Application Development/Spreadsheets to Parse/2023699.xls"
-    parts, assemblies, errors = parse_bom_excel(input_file)
+    project_name = os.path.splitext(os.path.basename(input_file))[0]
+
+    parts, errors, df = parse_bom_excel(input_file)
+    assemblies = build_assemblies(df)
 
     save_to_json(parts, 'parts.json')
-    save_to_json(assemblies, 'assemblies.json')
     save_to_json(errors, 'errors.json')
+
+    assembly_structure = {
+        "project": project_name,
+        "name": "",
+        "assemblies": assemblies
+    }
+    save_to_json(assembly_structure, 'assemblies.json')
 
     print("\nParsing Complete!\n")
     print(f"Logged {len(parts)} parts to parts.json")
     print(f"Logged {len(errors['EMPTYCELL'])} errors to errors.json")
-    print(f"Logged {len(assemblies)} assemblies to assemblies.json")
+    print(f"Logged {len(assemblies)} 3 parent assemblies to assemblies.json")
 
 if __name__ == "__main__":
     main()

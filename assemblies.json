@@ -1,1 +1,2240 @@
-{}
+{
+    "project": "2023699",
+    "name": "",
+    "assemblies": {
+        "36079EB-316LSS": {
+            "itemno": "1",
+            "description": "ASM SLUDGE DRYER",
+            "SWfilename": "36079E-316LSS",
+            "assemblies": [
+                {
+                    "36079B-11-316": {
+                        "itemno": "1.1",
+                        "description": "WELD'T - TUB 316 BACK DISCH.",
+                        "SWfilename": "36079-11-316",
+                        "assemblies": [
+                            {
+                                "36079-11-01-316": {
+                                    "itemno": "1.1.1",
+                                    "description": "PLATE SS",
+                                    "SWfilename": "36079-11-01-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-02-316": {
+                                    "itemno": "1.1.2",
+                                    "description": "PLATE - SS",
+                                    "SWfilename": "36079-11-02-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-06-316": {
+                                    "itemno": "1.1.3",
+                                    "description": "PLATE - FLANGE SS",
+                                    "SWfilename": "36079-11-06-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-05": {
+                                    "itemno": "1.1.4",
+                                    "description": "PLATE - LIFT CHANNEL",
+                                    "SWfilename": "36079-11-05",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-11": {
+                                    "itemno": "1.1.5",
+                                    "description": "PLATE - MOUNTING",
+                                    "SWfilename": "36079-11-11",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-12": {
+                                    "itemno": "1.1.6",
+                                    "description": "PLATE - GUSSET MNT",
+                                    "SWfilename": "36079-11-12",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-11-03-316": {
+                                    "itemno": "1.1.7",
+                                    "description": "PLATE - TUB HALF SS",
+                                    "SWfilename": "36079B-11-03-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-11-04-316": {
+                                    "itemno": "1.1.8",
+                                    "description": "PLATE - TUB HALF SS",
+                                    "SWfilename": "36079B-11-04-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-11-07-316": {
+                                    "itemno": "1.1.9",
+                                    "description": "PLATE - GUSSET SS",
+                                    "SWfilename": "36079B-11-07-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-11-08-316": {
+                                    "itemno": "1.1.10",
+                                    "description": "PLATE - GUSSET SS",
+                                    "SWfilename": "36079B-11-08-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-11-09-316": {
+                                    "itemno": "1.1.11",
+                                    "description": "PLATE - GUSSET SS",
+                                    "SWfilename": "36079B-11-09-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0006-5in": {
+                                    "itemno": "1.1.12",
+                                    "description": "CARRIAGE BOLT 5/8\"-11x5\" 316ss",
+                                    "SWfilename": "A0006",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-10": {
+                                    "itemno": "1.1.13",
+                                    "description": "CHANNEL  4x1.75 NOT TAPER'D SS",
+                                    "SWfilename": "36079-11-10",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "STW 0.3125-\n18x1.75 SS": {
+                                    "itemno": "1.1.14",
+                                    "description": "STUD - WELD",
+                                    "SWfilename": "STW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-10-R": {
+                                    "itemno": "1.1.15",
+                                    "description": "CHANNEL - MIRRORED",
+                                    "SWfilename": "36079-11-10-R",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-76": {
+                                    "itemno": "1.1.16",
+                                    "description": "SUB WELD'T BRACKET RIGHT",
+                                    "SWfilename": "36079-76",
+                                    "assemblies": [
+                                        {
+                                            "36079-76-01": {
+                                                "itemno": "1.1.16.1",
+                                                "description": "PLATE - BRACKET - CYL",
+                                                "SWfilename": "36079-76-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-76-02": {
+                                                "itemno": "1.1.16.2",
+                                                "description": "PLATE - GUSSET",
+                                                "SWfilename": "36079-76-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "STW 0.375-16x1": {
+                                                "itemno": "1.1.16.3",
+                                                "description": "STUD - WELD",
+                                                "SWfilename": "STW",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "36079-78": {
+                                    "itemno": "1.1.17",
+                                    "description": "SUB WELD'T BRACKET LEFT",
+                                    "SWfilename": "36079-78",
+                                    "assemblies": [
+                                        {
+                                            "36079-78-01": {
+                                                "itemno": "1.1.17.1",
+                                                "description": "PLATE - BRACKET - CYL",
+                                                "SWfilename": "36079-78-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-78-02": {
+                                                "itemno": "1.1.17.2",
+                                                "description": "PLATE - GUSSET",
+                                                "SWfilename": "36079-78-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "STW 0.375-16x1.5": {
+                                                "itemno": "1.1.17.3",
+                                                "description": "STUD - WELD",
+                                                "SWfilename": "STW",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "STW 0.375-16x1": {
+                                                "itemno": "1.1.17.4",
+                                                "description": "STUD - WELD",
+                                                "SWfilename": "STW",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "36079-11-13": {
+                                    "itemno": "1.1.18",
+                                    "description": "PLATE - U",
+                                    "SWfilename": "36079-11-13",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-12-1": {
+                                    "itemno": "1.1.19",
+                                    "description": "BRACKET",
+                                    "SWfilename": "36-12-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-12-3": {
+                                    "itemno": "1.1.20",
+                                    "description": "BRACKET - SKIN",
+                                    "SWfilename": "36-12-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-14": {
+                                    "itemno": "1.1.21",
+                                    "description": "ANGLE",
+                                    "SWfilename": "36079-11-14",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-11-17": {
+                                    "itemno": "1.1.22",
+                                    "description": "ANGLE",
+                                    "SWfilename": "36079-11-17",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "STW 0.3125-18x1 \nSS": {
+                                    "itemno": "1.1.23",
+                                    "description": "STUD - WELD",
+                                    "SWfilename": "STW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "STW 0.25-20x1.5 SS": {
+                                    "itemno": "1.1.24",
+                                    "description": "STUD - WELD",
+                                    "SWfilename": "STW",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-70": {
+                        "itemno": "1.2",
+                        "description": "ASM - COVER",
+                        "SWfilename": "36079-70",
+                        "assemblies": [
+                            {
+                                "PTFE-36079-73-2": {
+                                    "itemno": "1.2.1",
+                                    "description": "TEFLON SLIDER",
+                                    "SWfilename": "PTFE-36079-73-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-71": {
+                                    "itemno": "1.2.2",
+                                    "description": "WELD'T COVER",
+                                    "SWfilename": "36079-71",
+                                    "assemblies": [
+                                        {
+                                            "36079-71-01": {
+                                                "itemno": "1.2.2.2",
+                                                "description": "PLATE - TOP",
+                                                "SWfilename": "36079-71-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-02": {
+                                                "itemno": "1.2.2.3",
+                                                "description": "PLATE - BOTTOM",
+                                                "SWfilename": "36079-71-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-03": {
+                                                "itemno": "1.2.2.4",
+                                                "description": "PLATE - COVER RIB",
+                                                "SWfilename": "36079-71-03",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-04": {
+                                                "itemno": "1.2.2.5",
+                                                "description": "PLATE - REAR",
+                                                "SWfilename": "36079-71-04",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-05": {
+                                                "itemno": "1.2.2.6",
+                                                "description": "PLATE - VENT",
+                                                "SWfilename": "36079-71-05",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-06": {
+                                                "itemno": "1.2.2.7",
+                                                "description": "PLATE - FRONT",
+                                                "SWfilename": "36079-71-06",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-79-02": {
+                                                "itemno": "1.2.2.8",
+                                                "description": "PLATE - SPACER",
+                                                "SWfilename": "44-79-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-79-01": {
+                                                "itemno": "1.2.2.9",
+                                                "description": "PLATE - COVER",
+                                                "SWfilename": "44-79-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "CPH  0.25 SS": {
+                                                "itemno": "1.2.2.10",
+                                                "description": "HALF COUPLING 1/4\" 304LSS 150#",
+                                                "SWfilename": "CP",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-07": {
+                                                "itemno": "1.2.2.11",
+                                                "description": "PLATE - SIDE",
+                                                "SWfilename": "36079-71-07",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-07-R": {
+                                                "itemno": "1.2.2.12",
+                                                "description": "PLATE - SIDE MIRROR'D",
+                                                "SWfilename": "36079-71-07-R",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-71": {
+                                                "itemno": "1.2.2.13",
+                                                "description": "HANDLE",
+                                                "SWfilename": "44-71",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0198-36079": {
+                                                "itemno": "1.2.2.14",
+                                                "description": "INSULATION -HYDROP. AEROGEL 0.2 IN",
+                                                "SWfilename": "A0198-36079",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0198-36079-1": {
+                                                "itemno": "1.2.2.15",
+                                                "description": "INSULATION -HYDROP. AEROGEL 0.2 IN",
+                                                "SWfilename": "A0198-36079-1",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-71-08-R": {
+                                                "itemno": "1.2.2.16",
+                                                "description": "RAIL",
+                                                "SWfilename": "36079-71-08-R",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "36079-73": {
+                                    "itemno": "1.2.3",
+                                    "description": "WELD'T - COVER AXLES",
+                                    "SWfilename": "36079-73",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0232": {
+                                    "itemno": "1.2.4",
+                                    "description": "WASHER - LARGE DIA 3/8\" 316SS",
+                                    "SWfilename": "A0232",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-70-1": {
+                                    "itemno": "1.2.5",
+                                    "description": "WHEEL",
+                                    "SWfilename": "44-70-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-HH 0.375-16x1 SS": {
+                                    "itemno": "1.2.6",
+                                    "description": "BOLT-HH 3/8-16x1 SS",
+                                    "SWfilename": "B-HHSS",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "FW 0.375 SS": {
+                                    "itemno": "1.2.7",
+                                    "description": "WASHER FLAT STD",
+                                    "SWfilename": "FW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "LW 0.375 SS": {
+                                    "itemno": "1.2.8",
+                                    "description": "LOCKWASHER",
+                                    "SWfilename": "LW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "S-BSHC SS 0.375-\n16x0.5": {
+                                    "itemno": "1.2.9",
+                                    "description": "BUTTON SOCKET HEAD CAP ST.ST.",
+                                    "SWfilename": "S-BSHC SS",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-39-1": {
+                                    "itemno": "1.2.10",
+                                    "description": "PLATE - BLIND DOCK BOX FRONT",
+                                    "SWfilename": "44-39-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-39-2": {
+                                    "itemno": "1.2.11",
+                                    "description": "PLATE - BLIND DOCK BOX SIDE",
+                                    "SWfilename": "44-39-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-39-3": {
+                                    "itemno": "1.2.12",
+                                    "description": "GASKET - DOCKING BOX",
+                                    "SWfilename": "44-39-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-70-1": {
+                                    "itemno": "1.2.13",
+                                    "description": "BRACKET - SEAL",
+                                    "SWfilename": "36079-70-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-70-2": {
+                                    "itemno": "1.2.14",
+                                    "description": "CLAMP - SEAL",
+                                    "SWfilename": "36079-70-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-70-3": {
+                                    "itemno": "1.2.15",
+                                    "description": "SEAL - ROLLING COVER",
+                                    "SWfilename": "36079-70-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "S-FSHC #10-\n24x0.75 SS": {
+                                    "itemno": "1.2.16",
+                                    "description": "S-FSHC #10-24x3/4 SS",
+                                    "SWfilename": "S-FSHC",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0087": {
+                                    "itemno": "1.2.17",
+                                    "description": "LOCKNUT - #10-24 Distorted-Thread 316SS",
+                                    "SWfilename": "A0087",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "A0203": {
+                        "itemno": "1.3",
+                        "description": "ASM - LIMIT SWITCH c/w ROLLER LEVER",
+                        "SWfilename": "A0203",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-34-316": {
+                        "itemno": "1.4",
+                        "description": "SUB-ASM AIR PURGE 316",
+                        "SWfilename": "36-34-316",
+                        "assemblies": [
+                            {
+                                "36-34-1-316": {
+                                    "itemno": "1.4.1",
+                                    "description": "PLATE - SEAL 3in 316",
+                                    "SWfilename": "36-34-1-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-34-2": {
+                                    "itemno": "1.4.2",
+                                    "description": "PLATE - SEAL BODY",
+                                    "SWfilename": "36-34-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "CPVC-36-34-3": {
+                                    "itemno": "1.4.3",
+                                    "description": "PIPE - SPACER",
+                                    "SWfilename": "CPVC-36-34-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "PTFE-36-34-4": {
+                                    "itemno": "1.4.4",
+                                    "description": "SEAL ROTOR",
+                                    "SWfilename": "PTFE-36-34-4",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-34-3": {
+                                    "itemno": "1.4.5",
+                                    "description": "SEAL ELASTOMER",
+                                    "SWfilename": "36-34-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0146": {
+                                    "itemno": "1.4.6",
+                                    "description": "CLAMP ID RANGE 3 1/16\" TO 4\"",
+                                    "SWfilename": "A0146",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0246": {
+                                    "itemno": "1.4.7",
+                                    "description": "ELBOW AIR FITTING, 1/8 NPT TO 1/4\"  TUBE PUSH-IN",
+                                    "SWfilename": "A0246",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "SSS 0.5-13x0.5": {
+                                    "itemno": "1.4.8",
+                                    "description": "SET SCREW SOCKET HEAD CUP POINT",
+                                    "SWfilename": "SSS",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "44-35R": {
+                        "itemno": "1.5",
+                        "description": "WELD'T DOCKING BOX RIGHT",
+                        "SWfilename": "44-35",
+                        "assemblies": [
+                            {
+                                "44-35-01": {
+                                    "itemno": "1.5.1",
+                                    "description": "TUBE RD",
+                                    "SWfilename": "44-35-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-35-02": {
+                                    "itemno": "1.5.2",
+                                    "description": "PLATE",
+                                    "SWfilename": "44-35-02",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-35-03": {
+                                    "itemno": "1.5.3",
+                                    "description": "PLATE",
+                                    "SWfilename": "44-35-03",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36-36": {
+                        "itemno": "1.6",
+                        "description": "BRACKET - DOCKING BOX",
+                        "SWfilename": "36-36",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-36-R": {
+                        "itemno": "1.7",
+                        "description": "BRACKET DOCKING BOX",
+                        "SWfilename": "36-36-R",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "44-37-316": {
+                        "itemno": "1.8",
+                        "description": "ASM - DISCHARGE CHUTE",
+                        "SWfilename": "44-37-316",
+                        "assemblies": [
+                            {
+                                "44-37-1-316": {
+                                    "itemno": "1.8.1",
+                                    "description": "WELD'T - DISCHARGE CHUTE",
+                                    "SWfilename": "44-37-1-316",
+                                    "assemblies": [
+                                        {
+                                            "44-37-1-01-316": {
+                                                "itemno": "1.8.1.1",
+                                                "description": "FLANGE - 316",
+                                                "SWfilename": "44-37-1-01-316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-1-02-316": {
+                                                "itemno": "1.8.1.2",
+                                                "description": "PLATE - SIDE",
+                                                "SWfilename": "44-37-1-02-316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-1-03-316": {
+                                                "itemno": "1.8.1.3",
+                                                "description": "PLATE",
+                                                "SWfilename": "44-37-1-03-316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-1-04-316": {
+                                                "itemno": "1.8.1.4",
+                                                "description": "PLATE",
+                                                "SWfilename": "44-37-1-04-316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "50-37-1-05": {
+                                                "itemno": "1.8.1.5",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "50-37-1-05",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-1-06-316": {
+                                                "itemno": "1.8.1.6",
+                                                "description": "ROUND BAR 316",
+                                                "SWfilename": "44-37-1-06-316",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "44-37-3": {
+                                    "itemno": "1.8.2",
+                                    "description": "GASKET",
+                                    "SWfilename": "44-37-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0004": {
+                                    "itemno": "1.8.3",
+                                    "description": "LATCH BOLT 1/2-13X4.125 SS",
+                                    "SWfilename": "A0004",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "N 0.5-13 SS": {
+                                    "itemno": "1.8.4",
+                                    "description": "NUT - HEX",
+                                    "SWfilename": "N",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-2-316": {
+                                    "itemno": "1.8.5",
+                                    "description": "WELD'T DOOR",
+                                    "SWfilename": "44-37-2-316",
+                                    "assemblies": [
+                                        {
+                                            "44-37-2-01-316": {
+                                                "itemno": "1.8.5.1",
+                                                "description": "PLATE - DOOR",
+                                                "SWfilename": "44-37-2-01-316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-2-02": {
+                                                "itemno": "1.8.5.2",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "44-37-2-02",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "44-37-15": {
+                                    "itemno": "1.8.6",
+                                    "description": "BAR - DOOR PIVOT",
+                                    "SWfilename": "44-37-15",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0199": {
+                                    "itemno": "1.8.7",
+                                    "description": "COTTER PIN, 3/32in DIA x 1in  316ss",
+                                    "SWfilename": "A0199",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0014": {
+                                    "itemno": "1.8.8",
+                                    "description": "BUSHING FLG 0.375X0.5",
+                                    "SWfilename": "A0014",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-5": {
+                                    "itemno": "1.8.9",
+                                    "description": "PIPE - SPACER",
+                                    "SWfilename": "44-37-5",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-16": {
+                                    "itemno": "1.8.10",
+                                    "description": "BAR",
+                                    "SWfilename": "44-37-16",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0404": {
+                                    "itemno": "1.8.11",
+                                    "description": "SCREW - SOCKET BUTTON HEAD FLANGED 1/4\" X \n1/2\"",
+                                    "SWfilename": "A0404",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-6": {
+                                    "itemno": "1.8.12",
+                                    "description": "LINK - INTERMEDIATE",
+                                    "SWfilename": "44-37-6",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-7": {
+                                    "itemno": "1.8.13",
+                                    "description": "WELD'T LINK STOP",
+                                    "SWfilename": "44-37-7",
+                                    "assemblies": [
+                                        {
+                                            "44-37-7-02": {
+                                                "itemno": "1.8.13.1",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "44-37-7-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-7-01": {
+                                                "itemno": "1.8.13.2",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "44-37-7-01",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "44-37-7R": {
+                                    "itemno": "1.8.14",
+                                    "description": "WELD'T LINK STOP",
+                                    "SWfilename": "44-37-7",
+                                    "assemblies": [
+                                        {
+                                            "44-37-7-02": {
+                                                "itemno": "1.8.14.1",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "44-37-7-02",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "44-37-7-01": {
+                                                "itemno": "1.8.14.2",
+                                                "description": "BAR - FLAT",
+                                                "SWfilename": "44-37-7-01",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "44-37-8": {
+                                    "itemno": "1.8.15",
+                                    "description": "WELD'T HANDLE SPACER",
+                                    "SWfilename": "44-37-8",
+                                    "assemblies": [
+                                        {
+                                            "44-37-8-01": {
+                                                "itemno": "1.8.15.1",
+                                                "description": "PIPE - SPACER",
+                                                "SWfilename": "44-37-8-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0201": {
+                                                "itemno": "1.8.15.2",
+                                                "description": "NUT - COUPLING SS 0.5-13x1.25",
+                                                "SWfilename": "A0201",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "44-37-9": {
+                                    "itemno": "1.8.16",
+                                    "description": "HINGE - HANDLE",
+                                    "SWfilename": "44-37-9",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-10": {
+                                    "itemno": "1.8.17",
+                                    "description": "HINGE - ADJ.",
+                                    "SWfilename": "44-37-10",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-11": {
+                                    "itemno": "1.8.18",
+                                    "description": "HINGE - DOOR PIVOT",
+                                    "SWfilename": "44-37-11",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-12": {
+                                    "itemno": "1.8.19",
+                                    "description": "PIPE - SPACER",
+                                    "SWfilename": "44-37-12",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-13": {
+                                    "itemno": "1.8.20",
+                                    "description": "PIPE - SPACER",
+                                    "SWfilename": "44-37-13",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0202": {
+                                    "itemno": "1.8.21",
+                                    "description": "KNOB - BALL 1/2-13",
+                                    "SWfilename": "A0202",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-37-14": {
+                                    "itemno": "1.8.22",
+                                    "description": "STUD THR'D 1/2\"-13x6\" SS",
+                                    "SWfilename": "44-37-14",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0297": {
+                                    "itemno": "1.8.23",
+                                    "description": "GASKET DOOR",
+                                    "SWfilename": "A0297",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0013": {
+                                    "itemno": "1.8.24",
+                                    "description": "SWITCH - LIMIT SEALED C/W CABLE",
+                                    "SWfilename": "A0013",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36-16": {
+                        "itemno": "1.9",
+                        "description": "WELD'T CONDUIT PLATE",
+                        "SWfilename": "36-16",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-16-R": {
+                        "itemno": "1.1",
+                        "description": "WELD'T CONDUIT PLATE",
+                        "SWfilename": "36-16",
+                        "assemblies": [
+                            {
+                                "36-16-01R": {
+                                    "itemno": "1.10.1",
+                                    "description": "PLATE - CONDUIT",
+                                    "SWfilename": "36-16-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "CP  0.5 CS": {
+                                    "itemno": "1.10.2",
+                                    "description": "COUPLING  1/2\"  CARBON STEEL",
+                                    "SWfilename": "CP",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "A0243": {
+                        "itemno": "1.11",
+                        "description": "BEARING - 2.437\" 4 BOLT FLANGED",
+                        "SWfilename": "A0243",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "N 0.625-11 SS": {
+                        "itemno": "1.12",
+                        "description": "NUT - HEX",
+                        "SWfilename": "N",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "LW 0.625 SS": {
+                        "itemno": "1.13",
+                        "description": "LOCKWASHER",
+                        "SWfilename": "LW",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "FW 0.625 SS": {
+                        "itemno": "1.14",
+                        "description": "WASHER FLAT STD",
+                        "SWfilename": "FW",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36093-5": {
+                        "itemno": "1.15",
+                        "description": "WELD'T BASE",
+                        "SWfilename": "36093-5",
+                        "assemblies": [
+                            {
+                                "36093-5-01": {
+                                    "itemno": "1.15.1",
+                                    "description": "PLATE - BASE",
+                                    "SWfilename": "36093-5-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36093-5-03": {
+                                    "itemno": "1.15.2",
+                                    "description": "PLATE",
+                                    "SWfilename": "36093-5-03",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36093-5-02": {
+                                    "itemno": "1.15.4",
+                                    "description": "PLATE",
+                                    "SWfilename": "36093-5-02",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079B-40": {
+                        "itemno": "1.16",
+                        "description": "SUB ASM - SKINS",
+                        "SWfilename": "36079-40",
+                        "assemblies": [
+                            {
+                                "36079B-40-9": {
+                                    "itemno": "1.16.1",
+                                    "description": "PLATE - SKIN BACK DISCH.",
+                                    "SWfilename": "36079-40-9",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-40-1": {
+                                    "itemno": "1.16.2",
+                                    "description": "SKIN - FRONT - BACK DISCH",
+                                    "SWfilename": "36079-40-1-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-40-2": {
+                                    "itemno": "1.16.3",
+                                    "description": "PLATE - FRONT SKIN SUPPORT",
+                                    "SWfilename": "36079-40-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-40-3": {
+                                    "itemno": "1.16.4",
+                                    "description": "WELD'T REAR SUPPORT",
+                                    "SWfilename": "36079-40-3",
+                                    "assemblies": [
+                                        {
+                                            "36079-40-3-01": {
+                                                "itemno": "1.16.4.1",
+                                                "description": "SKIN REAR",
+                                                "SWfilename": "36079-40-3-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-40-3-02": {
+                                                "itemno": "1.16.4.2",
+                                                "description": "FORMED ANGLE",
+                                                "SWfilename": "36079-40-3-02",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "36079-40-3R": {
+                                    "itemno": "1.16.5",
+                                    "description": "WELD'T REAR SUPPORT",
+                                    "SWfilename": "36079-40-3R",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-40-7": {
+                                    "itemno": "1.16.6",
+                                    "description": "SKIN - REAR",
+                                    "SWfilename": "36079-40-7",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-40-6": {
+                                    "itemno": "1.16.7",
+                                    "description": "SKIN - REAR / BACK DISCH.",
+                                    "SWfilename": "36079-40-6",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-40-10": {
+                                    "itemno": "1.16.8",
+                                    "description": "SKIN - BOTTOM",
+                                    "SWfilename": "36079-40-8",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-40-11": {
+                                    "itemno": "1.16.9",
+                                    "description": "SKIN - BOTTOM",
+                                    "SWfilename": "36079-40-8",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-HH 0.25-20x1.25 \nSS": {
+                                    "itemno": "1.16.10",
+                                    "description": "BOLT-HH 1/4-20x1.25 SS",
+                                    "SWfilename": "B-HHSS",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "FW 0.25 SS": {
+                                    "itemno": "1.16.11",
+                                    "description": "WASHER FLAT STD",
+                                    "SWfilename": "FW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "N 0.25-20 SS": {
+                                    "itemno": "1.16.12",
+                                    "description": "NUT - HEX",
+                                    "SWfilename": "N",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "LW 0.25 SS": {
+                                    "itemno": "1.16.13",
+                                    "description": "LOCKWASHER",
+                                    "SWfilename": "LW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0404": {
+                                    "itemno": "1.16.14",
+                                    "description": "SCREW - SOCKET BUTTON HEAD FLANGED 1/4\" X \n1/2\"",
+                                    "SWfilename": "A0404",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36093-6": {
+                        "itemno": "1.17",
+                        "description": "WELD'T BASE",
+                        "SWfilename": "36093-6",
+                        "assemblies": [
+                            {
+                                "36093-6-01": {
+                                    "itemno": "1.17.1",
+                                    "description": "PLATE - BASE",
+                                    "SWfilename": "36093-6-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36093-6-02": {
+                                    "itemno": "1.17.2",
+                                    "description": "PLATE - MOUNT",
+                                    "SWfilename": "36093-6-02",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36093-6-03": {
+                                    "itemno": "1.17.3",
+                                    "description": "PLATE - C.PANEL MNT",
+                                    "SWfilename": "36093-6-03",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36093-7": {
+                        "itemno": "1.18",
+                        "description": "NUT - GEAR REDUCER",
+                        "SWfilename": "36093-7",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "A0229-460": {
+                        "itemno": "1.19",
+                        "description": "GEARMOTOR - 5HP, 460V-60HZ",
+                        "SWfilename": "A0229",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36079-61L-460v": {
+                        "itemno": "1.2",
+                        "description": "ASM - HEATERS",
+                        "SWfilename": "36079-61",
+                        "assemblies": [
+                            {
+                                "A0069": {
+                                    "itemno": "1.20.1",
+                                    "description": "THERMOCOUPLE  120\" LENGTH 3/8\" STUD",
+                                    "SWfilename": "A0069",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0074": {
+                                    "itemno": "1.20.2",
+                                    "description": "LOCKNUT - 1/4-20 EXTRA WIDE THIN STEEL CAD PL",
+                                    "SWfilename": "A0074",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0068": {
+                                    "itemno": "1.20.3",
+                                    "description": "THERMOSTAT BI-METALLIC - SILICON RUBBER \nCOVER",
+                                    "SWfilename": "A0068",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "25E-61-1": {
+                                    "itemno": "1.20.4",
+                                    "description": "PLATE - MOUNT T.CPLE",
+                                    "SWfilename": "25E-61-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0011": {
+                                    "itemno": "1.20.5",
+                                    "description": "LOCKNUT - 5/16-18 EXTRA WIDE THIN",
+                                    "SWfilename": "A0011",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0002": {
+                                    "itemno": "1.20.6",
+                                    "description": "CLAMP - HEATER",
+                                    "SWfilename": "A0002",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0134-460": {
+                                    "itemno": "1.20.7",
+                                    "description": "STRIP HEATER 28\" 1,115w 460v",
+                                    "SWfilename": "A0114",
+                                    "assemblies": [
+                                        {
+                                            "A0114": {
+                                                "itemno": "1.20.7.1",
+                                                "description": "STRIP HEATER 1,155W 460v w/o tabs",
+                                                "SWfilename": "A0114",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-77": {
+                        "itemno": "1.21",
+                        "description": "ASM - COVER ACTUATOR",
+                        "SWfilename": "36079-77",
+                        "assemblies": [
+                            {
+                                "A0154": {
+                                    "itemno": "1.21.1",
+                                    "description": "Default",
+                                    "SWfilename": "A0154",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0159": {
+                                    "itemno": "1.21.2",
+                                    "description": "PULLEY - WIRE ROPE 2.5\" x 3/8 SHAFT",
+                                    "SWfilename": "A0159",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0372": {
+                                    "itemno": "1.21.3",
+                                    "description": "TURNBUCKLE - EYE TO EYE 0.313",
+                                    "SWfilename": "A0372",
+                                    "assemblies": [
+                                        {
+                                            "A0372-01": {
+                                                "itemno": "1.21.3.1",
+                                                "description": "TURNBUCKLE - ALUMINUM",
+                                                "SWfilename": "A0372-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0372-02": {
+                                                "itemno": "1.21.3.2",
+                                                "description": "DESCRIPTION",
+                                                "SWfilename": "A0372-02",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "A0163-1": {
+                                    "itemno": "1.21.4",
+                                    "description": "THIMBLE - SS SMALL LOOP 1/4\" X 1\" LOOP",
+                                    "SWfilename": "A0162",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0473-SS": {
+                                    "itemno": "1.21.5",
+                                    "description": "SLEEVE WIRE ROPE 3/16\" SS",
+                                    "SWfilename": "A0473",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-HH 0.25-20x1.5": {
+                                    "itemno": "1.21.6",
+                                    "description": "BOLT-HH 1/4-20x1.5",
+                                    "SWfilename": "B-HH",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "FW 0.25": {
+                                    "itemno": "1.21.7",
+                                    "description": "WASHER FLAT STD",
+                                    "SWfilename": "FW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "N 0.25-20": {
+                                    "itemno": "1.21.8",
+                                    "description": "NUT - HEX",
+                                    "SWfilename": "N",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "LW 0.25": {
+                                    "itemno": "1.21.9",
+                                    "description": "LOCKWASHER",
+                                    "SWfilename": "LW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0156": {
+                                    "itemno": "1.21.10",
+                                    "description": "LOT 34 FT WIRE ROPE 3/16\" - SS",
+                                    "SWfilename": "A0156-36079",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-79-01": {
+                                    "itemno": "1.21.11",
+                                    "description": "PLATE - COVER",
+                                    "SWfilename": "44-79-01",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "44-77-1": {
+                                    "itemno": "1.21.12",
+                                    "description": "SPACER - PIPE SS",
+                                    "SWfilename": "44-77-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-HH 0.25-20x1.25": {
+                                    "itemno": "1.21.13",
+                                    "description": "BOLT-HH 1/4-20x1.25",
+                                    "SWfilename": "B-HH",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-0.5x0.25 BRASS": {
+                                    "itemno": "1.21.14",
+                                    "description": "BUSHING 1/2\"x1/4\"  (MNPT x FNPT) BRASS",
+                                    "SWfilename": "B",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0373": {
+                                    "itemno": "1.21.15",
+                                    "description": "VALVE - PNEU. SPEED CNTRL 1/4od x1/4 NPT",
+                                    "SWfilename": "A0373",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-20-316": {
+                        "itemno": "1.22",
+                        "description": "ASM - AUGER CONVEYOR",
+                        "SWfilename": "36079-20-316",
+                        "assemblies": [
+                            {
+                                "36079-21-316": {
+                                    "itemno": "1.22.1",
+                                    "description": "WELD'T AUGER",
+                                    "SWfilename": "36079-21-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-22": {
+                                    "itemno": "1.22.2",
+                                    "description": "SHAFT - TAIL",
+                                    "SWfilename": "36-22",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-24": {
+                                    "itemno": "1.22.3",
+                                    "description": "SHAFT - DRIVE",
+                                    "SWfilename": "36-24",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0214": {
+                                    "itemno": "1.22.4",
+                                    "description": "RETAIN. RING - EXT. 2 7/16\" DIA. SHAFT ST.ST.",
+                                    "SWfilename": "A0214",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "BHH316FWCLK": {
+                                    "itemno": "1.22.5",
+                                    "description": "SUB ASM BOLT 316",
+                                    "SWfilename": "BHH316FWCLK",
+                                    "assemblies": [
+                                        {
+                                            "B-HH 0.625-11x4 \n316": {
+                                                "itemno": "1.22.5.1",
+                                                "description": "BOLT-HH 5/8-11x4 316",
+                                                "SWfilename": "B-HH316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0104": {
+                                                "itemno": "1.22.5.2",
+                                                "description": "LOCKNUT - 5/8-11 CENTER LOCK 316SS",
+                                                "SWfilename": "A0104",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "FW 5/8 316SS": {
+                                                "itemno": "1.22.5.3",
+                                                "description": "WASHER FLAT STD",
+                                                "SWfilename": "FW",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-20-316": {
+                        "itemno": "1.23",
+                        "description": "ASM - AUGER CONVEYOR",
+                        "SWfilename": "36079-20-316",
+                        "assemblies": [
+                            {
+                                "36079-21-316": {
+                                    "itemno": "1.23.1",
+                                    "description": "WELD'T AUGER",
+                                    "SWfilename": "36079-21-316",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-22": {
+                                    "itemno": "1.23.2",
+                                    "description": "SHAFT - TAIL",
+                                    "SWfilename": "36-22",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36-24": {
+                                    "itemno": "1.23.3",
+                                    "description": "SHAFT - DRIVE",
+                                    "SWfilename": "36-24",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0214": {
+                                    "itemno": "1.23.4",
+                                    "description": "RETAIN. RING - EXT. 2 7/16\" DIA. SHAFT ST.ST.",
+                                    "SWfilename": "A0214",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "BHH316FWCLK": {
+                                    "itemno": "1.23.5",
+                                    "description": "SUB ASM BOLT 316",
+                                    "SWfilename": "BHH316FWCLK",
+                                    "assemblies": [
+                                        {
+                                            "B-HH 0.625-11x4 \n316": {
+                                                "itemno": "1.23.5.1",
+                                                "description": "BOLT-HH 5/8-11x4 316",
+                                                "SWfilename": "B-HH316",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0104": {
+                                                "itemno": "1.23.5.2",
+                                                "description": "LOCKNUT - 5/8-11 CENTER LOCK 316SS",
+                                                "SWfilename": "A0104",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "FW 5/8 316SS": {
+                                                "itemno": "1.23.5.3",
+                                                "description": "WASHER FLAT STD",
+                                                "SWfilename": "FW",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-30": {
+                        "itemno": "1.24",
+                        "description": "ASM - DRIVE",
+                        "SWfilename": "36079-30",
+                        "assemblies": [
+                            {
+                                "A0237": {
+                                    "itemno": "1.24.1",
+                                    "description": "SPROCKET - #120, 18T, 2 7/16\" BORE",
+                                    "SWfilename": "A0237",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0236": {
+                                    "itemno": "1.24.2",
+                                    "description": "SPROCKET - #120, 14T, 2 1/8\" BORE",
+                                    "SWfilename": "A0236",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0215": {
+                                    "itemno": "1.24.3",
+                                    "description": "ROLLER CHAIN , #120- 10FT",
+                                    "SWfilename": "A0215",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079B-65": {
+                        "itemno": "1.25",
+                        "description": "ASM - ELECTRICAL CONDUIT",
+                        "SWfilename": "36079B-65",
+                        "assemblies": [
+                            {
+                                "A0254": {
+                                    "itemno": "1.25.1",
+                                    "description": "ENCLOSURE, 12X10x8 STEEL NEMA12",
+                                    "SWfilename": "A0254",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-65-05": {
+                                    "itemno": "1.25.2",
+                                    "description": "WELD'T STRUT CHANNEL",
+                                    "SWfilename": "36079B-65-05",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0276": {
+                                    "itemno": "1.25.3",
+                                    "description": "STRUT CHANNEL COVER",
+                                    "SWfilename": "A0276",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0261-0.75": {
+                                    "itemno": "1.25.4",
+                                    "description": "CONDUIT - ADAPTER 3/4\" NPT FLEX HOSE LFMC \nLIQ. TIGHT",
+                                    "SWfilename": "A0261-0.75",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "LT-AL 0.75": {
+                                    "itemno": "1.25.5",
+                                    "description": "TUBING",
+                                    "SWfilename": "36079B-65-03-",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-1x0.75 GALV": {
+                                    "itemno": "1.25.6",
+                                    "description": "BUSHING 1\"x3/4\"  (MNPT x FNPT) GALV.STEEL",
+                                    "SWfilename": "B",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079B-65-04": {
+                                    "itemno": "1.25.7",
+                                    "description": "CONDUIT - LIQUID TIGHT",
+                                    "SWfilename": "36079B-65-04",
+                                    "assemblies": [
+                                        {
+                                            "36079B-65-04-": {
+                                                "itemno": "1.25.7.1",
+                                                "description": "CORE HOSE LIQUIDTIGHT",
+                                                "SWfilename": "36079B-65-04-",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0261-0.5": {
+                                                "itemno": "1.25.7.2",
+                                                "description": "CONDUIT - ADAPTER 1/2\" NPT FLEX HOSE",
+                                                "SWfilename": "A0261-0.5",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0262-0.5": {
+                                                "itemno": "1.25.7.3",
+                                                "description": "CONDUIT - ADAPTER 1/2\" NPT FLEX HOSE",
+                                                "SWfilename": "A0262-0.5",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "A0275-1": {
+                                    "itemno": "1.25.8",
+                                    "description": "SWITCH - DISCONNECT 16A",
+                                    "SWfilename": "A0275-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36093-65-07": {
+                                    "itemno": "1.25.9",
+                                    "description": "HDPE",
+                                    "SWfilename": "36093-65-07",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-65-08": {
+                                    "itemno": "1.25.11",
+                                    "description": "CONDUIT - LIQUID TIGHT",
+                                    "SWfilename": "36079-65-08",
+                                    "assemblies": [
+                                        {
+                                            "36079-65-08-": {
+                                                "itemno": "1.25.11.1",
+                                                "description": "CORE HOSE LIQUIDTIGHT",
+                                                "SWfilename": "36079-65-08-",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0264-0.5": {
+                                                "itemno": "1.25.11.2",
+                                                "description": "CONDUIT - ADAPTER 90\u00b0 1/2\" NPT FLEX HOSE \nLFMC LIQ. TIGHT",
+                                                "SWfilename": "A0264-0.5",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0261-0.5": {
+                                                "itemno": "1.25.11.3",
+                                                "description": "CONDUIT - ADAPTER 1/2\" NPT FLEX HOSE",
+                                                "SWfilename": "A0261-0.5",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "5084N121": {
+                                    "itemno": "1.25.12",
+                                    "description": "CONNECTOR - CABLE  STRAIN RELIEF 1/2\" NPT AL. \n0.3\"",
+                                    "SWfilename": "A0258",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0262-0.5": {
+                                    "itemno": "1.25.13",
+                                    "description": "CONDUIT - ADAPTER 1/2\" NPT FLEX HOSE",
+                                    "SWfilename": "A0262-0.5",
+                                    "assemblies": [
+                                        {
+                                            "36079-65-08--R": {
+                                                "itemno": "1.25.14.1",
+                                                "description": "DESCRIPTION",
+                                                "SWfilename": "36079-65-08--R",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0264-0.5-R": {
+                                                "itemno": "1.25.14.2",
+                                                "description": "DESCRIPTION",
+                                                "SWfilename": "A0264-0.5-R",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0261-0.5-R": {
+                                                "itemno": "1.25.14.3",
+                                                "description": "DESCRIPTION",
+                                                "SWfilename": "A0261-0.5-R",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "DEFAULT": {
+                                    "itemno": "1.25.15",
+                                    "description": "CONNECTOR - CABLE  STRAIN RELIEF 1/2\" NPT \n0.375",
+                                    "SWfilename": "A0374",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0375": {
+                                    "itemno": "1.25.16",
+                                    "description": "BEAM CLAMP - CONDUIT",
+                                    "SWfilename": "A0375",
+                                    "assemblies": [
+                                        {
+                                            "A0375-01": {
+                                                "itemno": "1.25.16.1",
+                                                "description": "BEAM CLAMP - CONDUIT",
+                                                "SWfilename": "A0375-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "B-HH 0.25-\n20x1.25": {
+                                                "itemno": "1.25.16.2",
+                                                "description": "BOLT-HH 1/4-20x1.25",
+                                                "SWfilename": "B-HH",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "3006T78": {
+                                    "itemno": "1.25.17",
+                                    "description": "HANGER CONDUIT 1/2\"",
+                                    "SWfilename": "A0377",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "36079-32": {
+                        "itemno": "1.26",
+                        "description": "ASM GUARD",
+                        "SWfilename": "36079-32",
+                        "assemblies": [
+                            {
+                                "SDD-32 Core": {
+                                    "itemno": "1.26.1",
+                                    "description": "GUARD CORE",
+                                    "SWfilename": "SDD-32 Core",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-32-1": {
+                                    "itemno": "1.26.2",
+                                    "description": "WELD'T - GUARD BASE",
+                                    "SWfilename": "36079-32-1",
+                                    "assemblies": [
+                                        {
+                                            "36079-32-1-01": {
+                                                "itemno": "1.26.2.1",
+                                                "description": "PLATE - BOTTOM",
+                                                "SWfilename": "36079-32-1-01",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "36079-32-1-02": {
+                                                "itemno": "1.26.2.2",
+                                                "description": "GUSSET",
+                                                "SWfilename": "36079-32-1-02",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "36079-32-2": {
+                                    "itemno": "1.26.3",
+                                    "description": "COVER",
+                                    "SWfilename": "36079-32-2",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-32-4": {
+                                    "itemno": "1.26.4",
+                                    "description": "PLATE - BACK",
+                                    "SWfilename": "36079-32-4",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-32-3": {
+                                    "itemno": "1.26.5",
+                                    "description": "PLATE, TOP",
+                                    "SWfilename": "36079-32-3",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "36079-32-05": {
+                                    "itemno": "1.26.6",
+                                    "description": "EXPANDED METAL",
+                                    "SWfilename": "36079-32-05",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0404": {
+                                    "itemno": "1.26.7",
+                                    "description": "SCREW - SOCKET BUTTON HEAD FLANGED 1/4\" X \n1/2\"",
+                                    "SWfilename": "A0404",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "B-HH 0.3125-\n18x0.625": {
+                                    "itemno": "1.26.8",
+                                    "description": "BOLT-HH 5/16-18x0.625",
+                                    "SWfilename": "B-HH",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "FW 0.3125": {
+                                    "itemno": "1.26.9",
+                                    "description": "WASHER FLAT STD",
+                                    "SWfilename": "FW",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "LW 0.3125": {
+                                    "itemno": "1.26.10",
+                                    "description": "LOCKWASHER",
+                                    "SWfilename": "LW",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "699-45-1": {
+                        "itemno": "1.27",
+                        "description": "PNEUMATICS ASM",
+                        "SWfilename": "699-45-1",
+                        "assemblies": [
+                            {
+                                "699-45-1-1": {
+                                    "itemno": "1.27.1",
+                                    "description": "SUB ASM - AIR FILTER REGULATOR",
+                                    "SWfilename": "699-45-1-1",
+                                    "assemblies": [
+                                        {
+                                            "A0279": {
+                                                "itemno": "1.27.1.1",
+                                                "description": "FILTER REGULATOR 1/4\" 30PSIG No GAUGE -MINI",
+                                                "SWfilename": "A0279",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0287-1": {
+                                                "itemno": "1.27.1.2",
+                                                "description": "CONNECTOR - REGULATOR  c/w T-BRACKET",
+                                                "SWfilename": "A0287-1",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0285-30": {
+                                                "itemno": "1.27.1.3",
+                                                "description": "PRESSURE GAUGE 0-30 1/8\" 1-1/2\" BRASS BACK \nMNT",
+                                                "SWfilename": "A0285",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "573060 QBML-\n1_8-1_4-U": {
+                                                "itemno": "1.27.1.4",
+                                                "description": "1/8 NPT TO 1/4\"  TUBE PUSH-IN CON ELBOW",
+                                                "SWfilename": "573060 QBML-1_8-1_4-U",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0271": {
+                                                "itemno": "1.27.1.5",
+                                                "description": "ANGLE BRACKET",
+                                                "SWfilename": "A0271",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "A0273 SUB ASM": {
+                                    "itemno": "1.27.2",
+                                    "description": "SUB ASM FILTER REGULATOR",
+                                    "SWfilename": "A0273 SUB ASM",
+                                    "assemblies": [
+                                        {
+                                            "A0273": {
+                                                "itemno": "1.27.2.1",
+                                                "description": "FILTER REGULATOR 1/4\" 0-125PSIG/8.6 BAR No \nGAUGE",
+                                                "SWfilename": "A0273",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0285-160": {
+                                                "itemno": "1.27.2.2",
+                                                "description": "PRESSURE GAUGE 0-160 1/8\" 1-1/2\" BRASS BACK \nMNT",
+                                                "SWfilename": "A0285",
+                                                "assemblies": []
+                                            }
+                                        },
+                                        {
+                                            "A0271": {
+                                                "itemno": "1.27.2.3",
+                                                "description": "ANGLE BRACKET",
+                                                "SWfilename": "A0271",
+                                                "assemblies": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "A0272 SUB ASM": {
+                                    "itemno": "1.27.3",
+                                    "description": "SUB ASM - VALVE - AIR SOLENOD",
+                                    "SWfilename": "A0272 SUB ASM",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "PN 0.25x1.5\" \nGALV.": {
+                                    "itemno": "1.27.4",
+                                    "description": "NIPPLE NPT SCH40 GALV. STEEL",
+                                    "SWfilename": "PN",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "ELT 0.25 GALV.": {
+                                    "itemno": "1.27.5",
+                                    "description": "ELBOW 1/4\" NPT  GALV.",
+                                    "SWfilename": "ELT",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "ELPT-0.25": {
+                                    "itemno": "1.27.6",
+                                    "description": "Elbow  1/4 OD x1/4 NPT x AIR FITTNG",
+                                    "SWfilename": "ELPT",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "P31VB92LBNN": {
+                                    "itemno": "1.27.7",
+                                    "description": "VALVE - BALL, LOCKOUT",
+                                    "SWfilename": "P31VB92LBNN",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0287-1": {
+                                    "itemno": "1.27.8",
+                                    "description": "CONNECTOR - REGULATOR  c/w T-BRACKET",
+                                    "SWfilename": "A0287-1",
+                                    "assemblies": []
+                                }
+                            },
+                            {
+                                "A0224": {
+                                    "itemno": "1.27.9",
+                                    "description": "AIR FITTING WYE- PLUG IN 1/4 OD",
+                                    "SWfilename": "A0224",
+                                    "assemblies": []
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "B-HH 0.375-16x1.25 \nSS": {
+                        "itemno": "1.28",
+                        "description": "BOLT-HH 3/8-16x1.25 SS",
+                        "SWfilename": "B-HHSS",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "FW 0.375 SS": {
+                        "itemno": "1.29",
+                        "description": "WASHER FLAT STD",
+                        "SWfilename": "FW",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "LW 0.375 SS": {
+                        "itemno": "1.3",
+                        "description": "LOCKWASHER",
+                        "SWfilename": "LW",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-18": {
+                        "itemno": "1.31",
+                        "description": "STOP",
+                        "SWfilename": "36-18",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "B-HH 0.375-16x2.25 \nSS": {
+                        "itemno": "1.32",
+                        "description": "BOLT-HH 3/8-16x2.25 SS",
+                        "SWfilename": "B-HHSS",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "N 0.375-16 SS": {
+                        "itemno": "1.33",
+                        "description": "NUT - HEX",
+                        "SWfilename": "N",
+                        "assemblies": []
+                    }
+                }
+            ]
+        },
+        "36-1": {
+            "itemno": "2",
+            "description": "WELD'T STANCHION #1",
+            "SWfilename": "36-1",
+            "assemblies": [
+                {
+                    "36-1-01": {
+                        "itemno": "2.1",
+                        "description": "PLATE",
+                        "SWfilename": "36-1-01",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-1-05": {
+                        "itemno": "2.2",
+                        "description": "TOP PLATE",
+                        "SWfilename": "36-1-05",
+                        "assemblies": []
+                    }
+                }
+            ]
+        },
+        "36-2": {
+            "itemno": "3",
+            "description": "WELD'T STANCHION #2",
+            "SWfilename": "36-2",
+            "assemblies": [
+                {
+                    "36-2-01": {
+                        "itemno": "3.1",
+                        "description": "PLATE",
+                        "SWfilename": "36-2-01",
+                        "assemblies": []
+                    }
+                },
+                {
+                    "36-2-05": {
+                        "itemno": "3.2",
+                        "description": "TOP PLATE",
+                        "SWfilename": "36-2-05",
+                        "assemblies": []
+                    }
+                }
+            ]
+        }
+    }
+}
