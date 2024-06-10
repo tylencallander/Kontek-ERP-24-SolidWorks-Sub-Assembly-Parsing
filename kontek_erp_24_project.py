@@ -16,6 +16,9 @@ def parse_bom_excel(input_file):
         sw_file_name = str(row[3]).strip() if pd.notna(row[3]) else ''
         quantity = row[5] if pd.notna(row[5]) else 0
 
+# I didn't really have any error conditions to make, since im not comparing this excel sheet to the network like I was doing before, so I just logged items with empty cells to the error file.
+# I was going to also log items that have a newline in their title, since it kinda ruins the formatting of the part number, ex: "STW 0.3125-\n18x1.75 SS" but I chose not to, but I can add this if necessary.
+
         if not part_number or not item_no or not description or not sw_file_name or not quantity:
             errors['EMPTYCELL'].append({
                 'row': index + 2, 
@@ -68,6 +71,8 @@ def build_assemblies(df):
             "assemblies": []
         }
 
+# Used a stack to figure out the parent assemblies
+
         while len(stack) > level:
             stack.pop()
 
@@ -105,6 +110,9 @@ def main():
     print("\nParsing Complete!\n")
     print(f"Logged {len(parts)} parts to parts.json")
     print(f"Logged {len(errors['EMPTYCELL'])} errors to errors.json")
+
+# This logs the main parent assemblies, like 1.0, 2.0... Not all of the individual assemblies, and how many children they have.
+
     print(f"Logged {len(assemblies)} parent assemblies to assemblies.json")
 
 if __name__ == "__main__":
