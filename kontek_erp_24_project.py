@@ -105,7 +105,7 @@ def main():
     print("\nParsing Complete!\n")
     print(f"Logged {len(parts)} parts to parts.json")
     print(f"Logged {len(errors['EMPTYCELL'])} errors to errors.json")
-    print(f"Logged {len(assemblies)} 3 parent assemblies to assemblies.json")
+    print(f"Logged {len(assemblies)} parent assemblies to assemblies.json")
 
 if __name__ == "__main__":
     main()
