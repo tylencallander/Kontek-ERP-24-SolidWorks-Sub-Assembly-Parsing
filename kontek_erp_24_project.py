@@ -36,7 +36,7 @@ def parse_bom_excel(input_file):
             parts[part_number] = {
                 'item_no': [item_no],
                 'description': description,
-                'sw_file_name': sw_file_name,
+                'SW_file_name': sw_file_name,
                 'total_qty': quantity,
                 'quantities': [quantity]
             }
@@ -62,9 +62,9 @@ def build_assemblies(df):
 
         level = item_no.count('.')
         assembly = {
-            "itemno": item_no,
+            "item_no": item_no,
             "description": description,
-            "SWfilename": sw_file_name,
+            "SW_file_name": sw_file_name,
             "assemblies": []
         }
 
