@@ -112,6 +112,7 @@ def main():
     print(f"Logged {len(errors['EMPTYCELL'])} errors to errors.json")
 
 # This logs the main parent assemblies, like 1.0, 2.0... Not all of the individual parts that make up the assemblies.
+
     print(f"Logged {len(assemblies)} parent assemblies to assemblies.json")
 
 if __name__ == "__main__":
